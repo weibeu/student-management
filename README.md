@@ -26,7 +26,7 @@ Simple Student Management program made in python with interactive formatting. Th
 	Name		:	Student’s Name
 	Father_Name	:	Student’s Father’s Name
 	Mother_Name	:	Student’s Mother’s Name
-	Sex : 	Student’s Gender
+	Sex : Student’s Gender
 	DOB :	Student’s Date of Birth
 	Age :	Student’s Age
 	Address		:	Student’s Address
