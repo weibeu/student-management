@@ -1,6 +1,6 @@
 # student-management
 Simple Student Management program made in python with interactive formatting. This project was given to us by the school. Feel free to make pull requests.
-## ModulesUsed:
+## Modules Used:
 ### pickle
 ```
  *load()
@@ -76,4 +76,5 @@ Simple Student Management program made in python with interactive formatting. Th
 *display~~ To print formatted student’s details.
 ```
 ## footnotes
-`Made especially for CBSE board Practical Examination.`
+Made especially for CBSE board Practical Examination.
+I feel meh for this project, 'cause made this in school hours, given less time.
