@@ -26,17 +26,17 @@ Simple Student Management program made in python with interactive formatting. Th
 	Name		:	Student’s Name
 	Father_Name	:	Student’s Father’s Name
 	Mother_Name	:	Student’s Mother’s Name
-	Sex			: 	Student’s Gender
-	DOB			:	Student’s Date of Birth
-	Age			:	Student’s Age
+	Sex : 	Student’s Gender
+	DOB :	Student’s Date of Birth
+	Age :	Student’s Age
 	Address		:	Student’s Address
-	Mobile_No		: 	Student’s Mobile Number
-	Email			:	Student’s Email Address
-	Class			:	Student’s Class
+	Mobile_No : 	Student’s Mobile Number
+	Email :	Student’s Email Address
+	Class :	Student’s Class
 	Section		:	Student’s Section
 	Stream		:	Student’s Stream (Applicable for class 11, 12)
-	Fees			:	Fees applicable to student
-	MOC			:	Student’s Mode of Convinience
+	Fees :	Fees applicable to student
+	MOC :	Student’s Mode of Convinience
 	Fees_Months	:	Number of months of fees paid
 	Weight		:	Weight of student
 	Height		:	Height of student
